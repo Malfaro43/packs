@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/firework_star",
+		"layer1": "item/firework_star_overlay"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2385702 }, "model": "item/desert_scourge_head"},
+		{ "predicate": { "custom_model_data": 2385703 }, "model": "item/desert_scourge_body"},
+		{ "predicate": { "custom_model_data": 2385704 }, "model": "item/desert_scourge_tail"},
+		{ "predicate": { "custom_model_data": 2385705 }, "model": "item/mini_worm"},
+		{ "predicate": { "custom_model_data": 2385706 }, "model": "item/sand_tornado"},
+		{ "predicate": { "custom_model_data": 2385707 }, "model": "item/amulet_of_winds"}
+	]
+}

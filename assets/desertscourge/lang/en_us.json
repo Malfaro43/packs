@@ -1,0 +1,38 @@
+{
+    "item.bag_of_winds.name": "Bag of Winds",
+    "item.bag_of_winds.lore": " Player Makes a Dash",
+
+    "item.suspicious_horn.name": "Suspicious Horn",
+    "item.suspicious_horn.lore": "\"...There is always a bigger fish in the sea.\"",
+
+    "item.barinade.name": "Barinade",
+
+    "item.amulet_of_winds.name": "Amulet of Winds",
+    "item.amulet_of_winds.lore": " Saves from Falling",
+
+    "item.dunerider_boots.name": "Dunerider Boots",
+    "item.dunerider_boots.lore": " Speeds Up Player While Running",
+
+    "item.worm_tooth.name": "Worm Tooth",
+    
+    "mob.desert_scourge.name": "Desert Scourge",
+
+    "other.when_used_in_hands": "When Used in Hands:",
+    "other.when_in_inventory": "When in Inventory:",
+
+    "adv.root.name": "Desert Scourge",
+    "adv.root.desc": "Made by Bimba",
+
+    "adv.gift_of_aeolus.name": "Gift of Aeolus",
+    "adv.gift_of_aeolus.desc": "Use the Bundle on the Sand Tornado, trapping the winds in it",
+    "adv.the_doom_horn.name": "The Doom Horn",
+    "adv.the_doom_horn.desc": "Use the Goat Horn on the Sand Tornado. Good luck...",
+    "adv.how_to_get_down.name": "...How to get down?",
+    "adv.how_to_get_down.desc": "Stay in the air for more than 20 seconds when thrown by a Sand Tornado",
+    "adv.the_beast_of_deserts.name": "The Beast of Deserts",
+    "adv.the_beast_of_deserts.desc": "Kill the Desert Scourge, the beast of prey of the endless deserts",
+
+    "difficulty.easy": "Easy Mode enabled!",
+    "difficulty.normal": "Normal Mode enabled!",
+    "difficulty.hard": "Hard Mode enabled!"
+}

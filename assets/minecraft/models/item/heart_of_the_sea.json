@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/heart_of_the_sea"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 2385700 }, "model": "item/bundle_filled"}
+	]
+}

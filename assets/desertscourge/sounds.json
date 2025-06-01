@@ -1,0 +1,22 @@
+{
+    "music.desert_scourge": {
+        "category": "master",
+        "sounds": [
+            {
+                "name": "desertscourge:music/desert_scourge_theme",
+                "stream": true,
+                "volume": 0.15
+            }
+        ]
+    },
+    "sfx.sand_tornado": {
+        "category": "hostile",
+        "sounds": [
+            "desertscourge:sfx/sand_tornado/1",
+            "desertscourge:sfx/sand_tornado/2",
+            "desertscourge:sfx/sand_tornado/3",
+            "desertscourge:sfx/sand_tornado/4",
+            "desertscourge:sfx/sand_tornado/5"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "item.bag_of_winds.name": "Мешок с ветрами",
+    "item.bag_of_winds.lore": " игрок делает рывок",
+
+    "item.suspicious_horn.name": "Подозрительный рог",
+    "item.suspicious_horn.lore": "\"...В море всегда найдётся хищник покрупнее.\"",
+
+    "item.barinade.name": "Баринад",
+
+    "item.amulet_of_winds.name": "Амулет ветров",
+    "item.amulet_of_winds.lore": " спасает от падения",
+
+    "item.dunerider_boots.name": "Сапоги дюноходца",
+    "item.dunerider_boots.lore": " ускоряет игрока при беге",
+
+    "item.worm_tooth.name": "Зуб червя",
+    
+    "mob.desert_scourge.name": "Пустынный бич",
+
+    "other.when_used_in_hands": "Когда используется в руке:",
+    "other.when_in_inventory": "Когда в инвентаре:",
+
+    "adv.root.name": "Пустынный бич",
+    "adv.root.desc": "Сделал Bimba",
+
+    "adv.gift_of_aeolus.name": "Дары Эола",
+    "adv.gift_of_aeolus.desc": "Используйте мешок на песчаном торнадо, захватив его ветры",
+    "adv.the_doom_horn.name": "Роковой рог",
+    "adv.the_doom_horn.desc": "Используйте козлиный рог на песчаной торнадо. Удачи...",
+    "adv.how_to_get_down.name": "...А как спуститься?",
+    "adv.how_to_get_down.desc": "Находитесь в воздухе более 20 секунд, подкинутым песчаным торнадо",
+    "adv.the_beast_of_deserts.name": "Зверь пустыни",
+    "adv.the_beast_of_deserts.desc": "Убейте пустынного бича, хищного зверя бескрайних пустынь",
+
+    "difficulty.easy": "Включена лёгкая сложность!",
+    "difficulty.normal": "Включена средняя сложность!",
+    "difficulty.hard": "Включена тяжёлая сложность!"
+}
